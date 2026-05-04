@@ -19,7 +19,7 @@ This project analyzes IMDb data using Excel and SQL to uncover insights about mo
 
 ## 📸 Dashboard Preview
 
-<img src="dashboard.png" width="800"/>
+<img src="imdb_dashboard.png" width="800"/>
 
 ## 📁 Files
 
